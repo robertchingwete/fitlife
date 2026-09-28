@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Deep, calm fitness theme -->
+    <color name="colorPrimary">#00796B</color> <!-- Deep Teal -->
+    <color name="colorPrimaryDark">#004D40</color> <!-- Forest Green -->
+    <color name="colorAccent">#FFA726</color> <!-- Muted Amber (Soft) -->
+
+    <!-- Gradient shades -->
+    <color name="gradientStart">#004D40</color> <!-- Deep forest -->
+    <color name="gradientCenter">#00695C</color> <!-- Calm teal -->
+    <color name="gradientEnd">#00251A</color> <!-- Dark jade -->
+
+    <!-- Text and background -->
+    <color name="backgroundLight">#F5F5F5</color>
+    <color name="surfaceWhite">#FFFFFF</color>
+    <color name="textPrimary">#E0E0E0</color>
+    <color name="textSecondary">#BDBDBD</color>
+
+    <!-- Feedback colors (optional) -->
+    <color name="successGreen">#4CAF50</color>
+    <color name="warningAmber">#FFB300</color>
+    <color name="errorRed">#E53935</color>
+    <color name="infoBlue">#29B6F6</color>
+    <color name="dividerColor">#E0E0E0</color>
+    <color name="chipBackground">#E0F2F1</color>
+
+
+
+
+</resources>
